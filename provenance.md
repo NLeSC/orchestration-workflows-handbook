@@ -12,7 +12,7 @@
 >
 >(from https://github.com/recipy/recipy)
 
-![](687474703a2f2f727477696c736f6e2e636f6d2f696d616765732f5265636970794755492e706e67.png)
+![](images/recipy-gui.png)
 
 ##Prov
 
