@@ -8,3 +8,5 @@
 * [Data Storage and Handling](data.md)
 * [Provenance](provenance.md)
 * [Other Tools, Formats, Systems, and Software](other.md)
+* Standards
+
