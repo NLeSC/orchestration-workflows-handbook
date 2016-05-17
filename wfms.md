@@ -11,5 +11,5 @@ Taverna is an open source WFMS
 >
 >Effectively, Taverna enables a scientist who has a limited background in computing, limited technical resources and support, to construct highly complex analyses over data and computational resources that are both public and private, all from a standard PC, UNIX box or Apple computer.
 
-![Taverna Workbench](Taverna_Workbench.png)
+![Taverna Workbench](images/Taverna_Workbench.png)
 
