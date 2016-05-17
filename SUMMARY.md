@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Standards
+* [Standards](standards.md)
 * [Workflow Management Systems](wfms.md)
 * [Workflow Engines](engines.md)
 * [Containers and Virtual Machines](containers-vms.md)
